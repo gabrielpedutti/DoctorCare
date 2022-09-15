@@ -1,4 +1,4 @@
-# NLW Together - Origin
+# NLW Return
 
 Esse é um projeto criado em acompanhamento em vídeo para o NLW Together da [Rocketseat](https://www.rocketseat.com.br/)
 
@@ -26,7 +26,7 @@ Criar um site, seguindo o layout do figma, com instruções em vídeo da semana 
 ### Links
 
 - Solution URL: [GitHub](https://github.com/gabrielpedutti/NlwReturn)
-- Live Site URL: [Live Site](https://gabrielpedutti.github.io/NlwReturn-Origin)
+- Live Site URL: [Live Site](https://gabrielpedutti.github.io/NlwReturn)
 
 ## Meu Processo
 
